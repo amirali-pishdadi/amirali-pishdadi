@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play volleyball with my friends
 
+
 ### Connect with me:
 
 
@@ -24,3 +25,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ampishdadi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ampishdadi#gh-dark-mode-only)
+
+[![Amirali-Pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact)
