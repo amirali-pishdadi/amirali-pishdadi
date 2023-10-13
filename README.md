@@ -13,6 +13,7 @@
 ## I'm a Student, Son and Developer !!!
 
 - 🌱 I’m currently learning everything 🤣
+- 👦🏻 I'm 16 years old
 - ⚡ Fun fact: I love to play volleyball with my friends
 
 
