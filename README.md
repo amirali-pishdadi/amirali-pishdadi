@@ -1,9 +1,10 @@
 # Hi there, I'm Amirali - Pishdadi 👋 
 
 ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
-![stars]https://img.shields.io/github/stars/amirali-pishdadi/amirali-pishdadi
-![forks]https://img.shields.io/github/forks/amirali-pishdadi/amirali-pishdadi
-![discord]https://img.shields.io/discord/1162727730509520966
+
+https://img.shields.io/github/stars/amirali-pishdadi/amirali-pishdadi
+https://img.shields.io/github/forks/amirali-pishdadi/amirali-pishdadi
+https://img.shields.io/discord/1162727730509520966
 
 
 
