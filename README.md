@@ -1,10 +1,13 @@
 # Hi there, I'm Amirali - Pishdadi 👋 
 
 ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
-<!-- 
+&nbsp;&nbsp;
 ![stars](https://img.shields.io/github/stars/amirali-pishdadi/amirali-pishdadi)
-![forks](https://img.shields.io/github/forks/amirali-pishdadi/amirali-pishdadi) -->
-
+&nbsp;&nbsp;
+![forks](https://img.shields.io/github/forks/amirali-pishdadi/amirali-pishdadi)
+&nbsp;&nbsp;
+![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
+)
 
 
 <!-- 
@@ -18,10 +21,16 @@
 
 ## I'm a Student, Son and Developer !!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👦🏻 I'm 16 years old
 - ⚡ Fun fact: I love to play volleyball with my friends
 
+## About my github profile
+
+[![amirali-pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi&show_icons=true&hide=contribs,prs)
+](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact)
 
 ### Connect with me:
 
@@ -32,7 +41,3 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ampishdadi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ampishdadi#gh-dark-mode-only)
-
-[![Amirali-Pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact)
