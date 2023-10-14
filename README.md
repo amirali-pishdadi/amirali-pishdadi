@@ -19,7 +19,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
  -->
 
-## I'm a Student, Son and Developer !!!
+## I'm a Student, Boy and Developer !!!
 
 - 🌱 I’m currently learning everything
 - 👦🏻 I'm 16 years old
@@ -27,8 +27,7 @@
 
 ## About my github profile
 
-[![amirali-pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi&show_icons=true&hide=contribs,prs)
-](https://github.com/anuraghazra/github-readme-stats)
+[![amirali-pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact)
 
