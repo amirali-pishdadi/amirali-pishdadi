@@ -4,7 +4,6 @@
 
 ![stars](https://img.shields.io/github/stars/amirali-pishdadi/amirali-pishdadi)
 ![forks](https://img.shields.io/github/forks/amirali-pishdadi/amirali-pishdadi)
-![discord](https://img.shields.io/discord/1162727730509520966)
 
 
 
