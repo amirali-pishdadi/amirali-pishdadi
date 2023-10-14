@@ -1,6 +1,6 @@
 # Hi there, I'm Amirali - Pishdadi 👋 
 
-![Message](https://img.shields.io/badge/Amirali_Pishdadi-blue)
+![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
 <!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -27,6 +27,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/ampishdadi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ampishdadi#gh-dark-mode-only)
 
-[![Amirali-Pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Amirali-Pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact)
