@@ -1,6 +1,12 @@
 # Hi there, I'm Amirali - Pishdadi 👋 
 
 ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
+![stars]https://img.shields.io/github/stars/amirali-pishdadi/amirali-pishdadi
+![forks]https://img.shields.io/github/forks/amirali-pishdadi/amirali-pishdadi
+![discord]https://img.shields.io/discord/1162727730509520966
+
+
+
 <!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
