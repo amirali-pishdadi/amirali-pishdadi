@@ -1,15 +1,22 @@
-# Hi there, I'm Amirali - Pishdadi 👋 
+# Hi there, I'm Amirali - Pishdadi 👋
 
-![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
+<a href="https://www.linkedin.com/in/amirali-pishdadi-2529aa237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+
+<a href="https://www.instagram.com/ampishdadi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+
+<a href="https://t.me/AmPishdadi"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a> 
+
+<!-- ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
 &nbsp;&nbsp;
 ![stars](https://img.shields.io/github/stars/amirali-pishdadi/amirali-pishdadi)
 &nbsp;&nbsp;
 ![forks](https://img.shields.io/github/forks/amirali-pishdadi/amirali-pishdadi)
 &nbsp;&nbsp;
 ![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
-)
+) -->
 
 ## Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -20,8 +27,7 @@
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
-
-<!-- 
+<!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -34,7 +40,7 @@
 
 - 🌱 I’m currently learning everything
 - 👦🏻 I'm 16 years old
-- ⚡ Fun fact: I love programming and play volleyball with my friends 
+- ⚡ Fun fact: I love programming and play volleyball with my friends
 
 ## About my github profile
 
@@ -44,13 +50,11 @@
 
 ### Connect with me:
 
-
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/amirali-pishdadi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/amirali-pishdadi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ampishdadi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ampishdadi#gh-dark-mode-only)
-
 
 <a href="https://www.buymeacoffee.com/ampishdadi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
