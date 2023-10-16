@@ -9,7 +9,7 @@
 ![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
 )
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -51,3 +51,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ampishdadi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ampishdadi#gh-dark-mode-only)
+
+
+<a href="https://www.buymeacoffee.com/ampishdadi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
