@@ -1,7 +1,8 @@
 [![Header](https://raw.githubusercontent.com/amirali-pishdadi/amirali-pishdadi/master/header.png "Header")](https://github.com/amirali-pishdadi/)
 
 # Hi there, I'm Amirali - Pishdadi 👋
-
+![Github views](https://komarev.com/ghpvc/?username=amirali-pishdadi&color=green&style=for-the-badge)
+<br>
 <a href="https://www.linkedin.com/in/amirali-pishdadi-2529aa237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/ampishdadi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
