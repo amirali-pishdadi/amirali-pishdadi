@@ -54,7 +54,7 @@
 &nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact&theme=dark)
 
-[![Amirali Pishdadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirali-pishdadi&theme=github-compact)]
+[![Amirali Pishdadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirali-pishdadi&theme=github-compact)](https://github.com/amirali-pishdadi)
 
 <a href="https://www.buymeacoffee.com/ampishdadi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <a href="https://www.coffeebede.com/ampishdadi"><img class="img-fluid"  style="height: 60px !important;width: 217px !important;" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
