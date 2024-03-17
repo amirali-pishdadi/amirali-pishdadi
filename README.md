@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&pause=1000&color=FFFFFF&background=FFFFFF00&random=false&width=435&lines=Hi+%F0%9F%96%90%F0%9F%8F%BB+%2C+I'm+Amirali+Pishdadi+.;I'm+Back-End+developer+.;I'm+16+y.o+." alt="Typing SVG" /></a>
 </h1>
 
-![Github views](https://komarev.com/ghpvc/?username=amirali-pishdadi&color=green&style=for-the-badge)
+<!-- ![Github views](https://komarev.com/ghpvc/?username=amirali-pishdadi&color=green&style=for-the-badge) -->
 <br>
 <a href="https://www.linkedin.com/in/amirali-pishdadi-2529aa237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 &nbsp;&nbsp;
