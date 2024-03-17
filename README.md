@@ -48,11 +48,11 @@
 - 👦🏻 I'm 16 years old
 - ⚡ Fun fact: I love programming and play volleyball with my friends
 
-## About my github profile
+## GitHub Stats:
 
-[![amirali-pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![amirali-pishdadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirali-pishdadi&show_icons=true&hide=contribs,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-pishdadi&layout=compact&theme=dark)
 
 <!-- ### Connect with me:
 
@@ -62,6 +62,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ampishdadi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ampishdadi#gh-dark-mode-only) -->
+
+[![Amirali Pishdadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirali-pishdadi&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://www.buymeacoffee.com/ampishdadi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <a href="https://www.coffeebede.com/ampishdadi"><img class="img-fluid"  style="height: 60px !important;width: 217px !important;" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
