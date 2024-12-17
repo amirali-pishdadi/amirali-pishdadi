@@ -8,7 +8,7 @@
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/ampishdadi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 &nbsp;&nbsp;
-<a href="https://t.me/AmPishdadi"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
+<a href="https://t.me/ampi04"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 
 <!-- ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
 &nbsp;&nbsp;
