@@ -47,6 +47,7 @@
 - 🌱 I’m currently learning everything
 - 👦🏻 I'm 16 years old
 - ⚡ Fun fact: I love programming and play volleyball with my friends
+- 💔 I’ll be offline and not working on code until after the konkur.
 
 ## GitHub Stats:
 
